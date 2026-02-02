@@ -9,6 +9,8 @@ body{
 .header{
 	width: 100%;
 	background-color: #011e29;
+	text-align: center;
+	padding: 10px 20px;
 	height: 20vh;
 	color: white;
 	display: flex;
@@ -28,10 +30,12 @@ body{
 
 .latest-news-section{
 	width: 20%;
+	border-radius: 10px;
 }
 
 .main-article-section{
 	width: 50%;
+	border-radius: 10px;
 }
 
 p{
@@ -52,6 +56,8 @@ h2{
 	width: 30%;
 	display: flex;
 	flex-direction: column;
+	border-radius: 10px;
+	text-align: center;
 }
 
 .pictorial-news-section img{
